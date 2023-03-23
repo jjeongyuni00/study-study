@@ -1,5 +1,5 @@
 name: action-study
-run-name: ${{ github.actor }} is learning GitHub Actions
+run-name: ${{ github.actor }} is learning GitHub Actions json
 on: [push]
 jobs:
   check-json-version:
